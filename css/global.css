@@ -3,15 +3,15 @@
 
 
 * {
-
+direction: rtl;
     font-family: 'Cairo',
     sans-serif;
 }
 
 .en {
-    direction: ltr;
+    direction: ltr !important;
     font-family: 'DM Sans',
-        sans-serif;
+        sans-serif !important;
 }
 
 .text-sm {
